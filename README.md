@@ -8,7 +8,7 @@ Displays possible autocomplete suggestions on keystroke (or manually by typing `
 
 ## Installation
 
-autocomplete+ is bundled with Atom. You don't have to do anything to install it.
+autocomplete+ is bundled with Atom. You don't have to do anything to install it, just make sure you have 'snippets' enabled.
 
 ## Providers
 
